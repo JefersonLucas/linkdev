@@ -1,5 +1,4 @@
 <p align="center">
-	<img src="assets/img/logo.png" width="150">
 	<h1 align="center">LinkDev</h1>
 	<p align="center">:link: LinkDev é uma página de destino de referência de mídia social.
 
