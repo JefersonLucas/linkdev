@@ -8,10 +8,6 @@
   	</p>
 </p>
 
-## Autores
-
-- [@iuricode](https://github.com/iuricode) - _Idealizador_.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/linkdev/blob/master/LICENSE) para obter detalhes.

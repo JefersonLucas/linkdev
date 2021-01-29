@@ -17,13 +17,14 @@ window.addEventListener('load', () => {
 });
 
 function showData(data) {
-  const title = document.querySelector('title');
-  const user = document.querySelector('h1');
-  const login = document.querySelector('p');
-  const avatar = document.querySelector('img');
+  const avatar = document.querySelector('#avatar')
+  const name = document.querySelector('#name')
 
-  title.textContent = `${data.name} | LinkDev`;
-  user.textContent = data.name;
-  login.textContent = `@${data.login}`;
+  name.textContent = `Conheça outras redes de ${data.name}`;
   avatar.src = data.avatar_url;
 }
+
+
+
+
+
